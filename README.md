@@ -1,1 +1,3 @@
 # ProblemSheet3-Jupyter-pyplot-numpy
+
+this is the third problem sheet for my emerging technologies module. In this work sheet we focus on the Jupyter note book and graphing information using the function numpy and pyplot along witht he library of seaborn. THe juptyer note book submission is a mixture of working code and markdown files explaining the question and code. Running the jupyter note book from this repo will demonstrate the working code that will produce visual graphs plotted by pyplot.
